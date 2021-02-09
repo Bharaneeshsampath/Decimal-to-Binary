@@ -1,5 +1,5 @@
 #This code converts Decimal number to a binary number
-n=int(input())
+n=int(input("Enter you Decimal to convert :"))
 binary=0
 p=1
 while n>0:
